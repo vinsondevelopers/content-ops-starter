@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Vinson Developers
 slug: /
 sections:
   - subtitle: Award winning enterprises trust us
